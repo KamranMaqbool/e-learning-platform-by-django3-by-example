@@ -1,0 +1,56 @@
+[
+{
+  "model": "cources.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Mathematics",
+    "slug": "mathematics",
+    "created": "2022-08-30T16:59:12.114Z"
+  }
+},
+{
+  "model": "cources.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Physics",
+    "slug": "physics",
+    "created": "2022-08-30T16:59:28.463Z"
+  }
+},
+{
+  "model": "cources.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Chemistry",
+    "slug": "chemistry",
+    "created": "2022-08-30T16:59:41.464Z"
+  }
+},
+{
+  "model": "cources.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Urdu",
+    "slug": "urdu",
+    "created": "2022-08-30T16:59:49.752Z"
+  }
+},
+{
+  "model": "cources.subject",
+  "pk": 5,
+  "fields": {
+    "title": "English",
+    "slug": "english",
+    "created": "2022-08-30T16:59:56.697Z"
+  }
+},
+{
+  "model": "cources.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Islamiat",
+    "slug": "islamiat",
+    "created": "2022-08-30T17:00:07.114Z"
+  }
+}
+]
